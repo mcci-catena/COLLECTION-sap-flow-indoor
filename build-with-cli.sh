@@ -43,7 +43,7 @@ function _setProject {
     readonly OPTCLOCK_DEFAULT=16
     readonly OPTXSERIAL_DEFAULT=usb
     readonly OPTARDUINO_BOARD_DEFAULT=4610
-    readonly OPTARDUINO_SOURCE_DEFAULT=sketches/catena4610-pulse-generic/catena4610-pulse-generic.ino
+    readonly OPTARDUINO_SOURCE_DEFAULT=sketches/model4905-indoor-sap-flow/model4905-indoor-sap-flow.ino
 }
 
 # result is version as either x.y.z-N or x.y.z (if pre-release tag is -0)
