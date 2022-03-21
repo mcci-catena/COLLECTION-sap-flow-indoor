@@ -1,6 +1,6 @@
 [submodule "sketches/catena4610-pulse-generic"]
 	path = sketches/catena4610-pulse-generic
-	url = git@gitlab-x.mcci.com:mcci/hardware/catena/catena4610/sketches/catena4610-pulse-generic.git
+	url = git@github.com:mcci-catena/model4905-indoor-sap-flow.git
 [submodule "libraries/Catena-Arduino-Platform"]
 	path = libraries/Catena-Arduino-Platform
 	url = https://github.com/mcci-catena/Catena-Arduino-Platform.git
